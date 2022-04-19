@@ -1,7 +1,5 @@
 ## Java-Lambda-Expressions
 
-- <samp>Build Automation adalah proses meng-otomatisasi tahapan pembuatan software dan hal-hal yang berhubungan</samp>
-
 - <samp>Lambda berasal dari lambda calculus, yang mengacu pada anonymous function ( function tanpa nama ).</samp>
 
 - <samp>Namun pada java, function atau method tidak dapat berdiri sendiri artinya function/method harus berada</samp>
